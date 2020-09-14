@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoldProject</string>
+    <string name="live_bhaw">Live Bhaw</string>
+    <string name="contact">Contact</string>
+    <string name="mcx">MCX</string>
+    <string name="bank">Bank</string>
+    <string name="gallery">Gallery</string>
+</resources>
